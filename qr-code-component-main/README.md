@@ -22,7 +22,7 @@ This prject is a simple project that demonstrates my basic knowledge f HTML and 
 ### Links
 
 - Solution URL: (https://github.com/Sumta4real/QR-CodeProject/)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://qr-code-project-2.vercel.app/)
 
 ### Built with
 
